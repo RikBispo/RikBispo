@@ -1,4 +1,7 @@
-## Hi there 👋
+Olá! Sou o Henrik, tenho 21 anos, estou cursando bacharelado em I.A pela UNIVESP e faço alguns cursos no SENAI, fique a vontade para olhar alguns projetos!!!
+Estudei durante 6 mêses na FATEC, mas infelizmente precisei trocar de faculdade por conta do horário do curso, mas lá participei do INTERFATECS que foi umna experiência incrível.
+Agora, estou mais ativo no GITHub por conta do curso do SENAI q estou fazendo chamado de "Desenvolvimento com I.A Generativa Google Antigravity" e pretendo postar muito por aqui.
+Estou Procurando oportunidades na área do T.I!!!!!!!!!!!!!
 
 <!--
 **RikBispo/RikBispo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
