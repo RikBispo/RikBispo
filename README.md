@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/github/followers/RikBispo?label=Seguidores&style=flat-square&color=8A05BE" alt="Seguidores" />
 </div>
 
-# Olá, mundo! 👋 Eu sou o Henrik Bispo
+# Oie sou o Henrik Bispo
 
 <p align="center">
   Nubie no Nubank | Dados & B2B | Estudante de Inteligência Artificial
@@ -11,17 +11,16 @@
 
 ---
 
-## 💜 Sobre Mim
+## Sobre Mim
 
-* 🚀 **Atualmente:** Sou um **Nubie** (Jovem Aprendiz) no **Nubank**, atuando diretamente com foco em **Dados e B2B (Business-to-Business)**.
-* 🗣️ **Perfil Profissional:** Possuo forte habilidade de **comunicação**, uma característica que utilizo diariamente para traduzir necessidades de negócios em soluções técnicas eficientes, conectando pessoas e dados.
-* 🎓 **Formação:** Graduando no Bacharelado em Inteligência Artificial pela **UNIVESP** e cursando o Técnico em Desenvolvimento de Sistemas no **IFSP**.
-* 🏆 **Experiências Marcantes:** Participação no **INTERFATECS** durante minha passagem pela FATEC.
-* 🎯 **Objetivo:** Evoluir constantemente minhas habilidades analíticas e técnicas na área de dados, gerando impacto em ecossistemas corporativos.
+* **Atualmente** Sou um **Nubie** (Jovem Aprendiz) no **Nubank**, atuando diretamente com foco em **Dados e B2B (Business-to-Business)**.
+* **Formação:** Atualmente, estou no primeiro semestre de Inteligência Artificial pela **UNIVESP** e cursando o Técnico em Desenvolvimento de Sistemas no **IFSP**, além de estar fazendo alguns cursos rápidos no senai, como Python Para Data Science e desenvolvimento com I.A Generativa.
+* Participei do **INTERFATECS** durante minha passagem pela FATEC e também faço projetos sociais voltados para programação
+* Atualmente meu objetivo é evoluir constantemente minhas habilidades analíticas e técnicas na área de dados.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -33,7 +32,7 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
   <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RikBispo&theme=radical" alt="Estatísticas do Perfil" />
@@ -41,7 +40,7 @@
 </div>
 ---
 
-## 📫 Onde me encontrar
+## Onde me encontrar
 
 <div align="center">
   <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
