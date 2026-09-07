@@ -43,10 +43,10 @@
 ## Onde me encontrar
 
 <div align="center">
-  <a href="https://linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <a href="www.linkedin.com/in/rikbispo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU-EMAIL@gmail.com">
+  <a href="mailto:henrikb108@gmail.com">
     <img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
