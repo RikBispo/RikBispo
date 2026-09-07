@@ -33,8 +33,11 @@
 
 ---
 
+## 📊 Estatísticas do GitHub
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RikBispo&theme=radical&hide_border=true" alt="Estatísticas de RikBispo" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RikBispo&theme=radical" alt="Estatísticas do Perfil" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RikBispo&theme=radical" alt="Top Linguagens" />
 </div>
 ---
 
